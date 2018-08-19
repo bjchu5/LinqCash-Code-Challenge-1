@@ -1,0 +1,15 @@
+header nav{ 
+    padding-bottom: 5%;
+}
+
+form div{
+    margin-bottom: 5%;
+}
+
+div #spacing{
+    padding-bottom: 5%;
+}
+
+#errorMsg{
+    color: red;
+}
